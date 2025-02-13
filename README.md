@@ -1,5 +1,25 @@
 # Ressurser fra Webinar "Lytt til immunforsvaret" - Antiviruslogger
 
+## Guider og nyttige lenker
+
+[Microsofts oversikt for Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint)
+
+[Get started with your Microsoft Defender for Endpoint deployment](https://learn.microsoft.com/en-us/defender-endpoint/mde-planning-guide)
+
+[Defender for Endpoint onboarding Windows client devices](https://learn.microsoft.com/en-us/defender-endpoint/onboard-windows-client)
+
+[Onboard Windows servers to the Microsoft Defender for Endpoint service](https://learn.microsoft.com/en-us/defender-endpoint/configure-server-endpoints)
+
+## Lisens
+
+![Threat protection features inkludert i forskjellige lisenser](./media/tp-license-inclusons.png)
+
+[Minimum requirements for Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/minimum-requirements)
+
+[Overview of Microsoft Defender for Endpoint Plan 1](https://learn.microsoft.com/en-us/defender-endpoint/defender-endpoint-plan-1)
+
+[What is Microsoft Defender for Business?](https://learn.microsoft.com/en-us/defender-business/mdb-overview)
+
 ## Varsling
 
 Både Graylog og Defender har mulighet for å sette opp varsling.
