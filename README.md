@@ -79,6 +79,16 @@ Scriptet er satt opp til å sende over kun de antivirusloggene som er kritiske. 
 
 ```5001``` - Real time protection was disabled
 
+```5004``` - The real-time protection configuration changed
+
+```5007``` - The antimalware platform configuration changed
+
+```5008``` - The antimalware engine encountered an error and failed
+
+```5010``` - Scanning for malware and other potentially unwanted software is disabled
+
+```5012``` - Scanning for viruses is disabled
+
 ```5013``` - Tamper protection blocked a change to Defender Antivirus
 
 Se den [komplette listen](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus) med EventIDer fra Microsoft for mer informasjon om eventene
