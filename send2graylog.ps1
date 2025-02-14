@@ -9,7 +9,7 @@ $starttime = (Get-Date).AddSeconds(-70)
 
 $events = Get-WinEvent -FilterHashtable @{
     LogName="Microsoft-Windows-Windows Defender/Operational"; # Se i Defender-loggene
-    Id=@(1006, 1015, 1116, 5001, 5013); # Ta med de viktigste eventene
+    Id=@(1006, 1015, 1116, 5001, 5004, 5007, 5008, 5010, 5012, 5013); # Ta med de viktigste eventene
     StartTime=$starttime
 } -ErrorAction SilentlyContinue
 
