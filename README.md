@@ -1,5 +1,7 @@
 # Ressurser fra Webinar "Lytt til immunforsvaret" - Antiviruslogger
 
+Dersom noen benytter denne guiden og gjør seg noen erfaringer hører vi gjerne fra dere! Vi er også veldig åpne for pull request om noen ønsker å komme med sine erfaringer her!
+
 ## Guider og nyttige lenker
 
 [Microsofts oversikt for Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint)
