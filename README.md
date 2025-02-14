@@ -72,9 +72,13 @@ Dersom scriptet ikke finner noen logger, gjør det ingenting, og om det er komme
 Scriptet er satt opp til å sende over kun de antivirusloggene som er kritiske. Antivirusloggen har mye mer informasjon, men det er følgene EventIDer som sendes:
 
 ```1006``` - The antimalware engine found malware or other potentially unwanted software
+
 ```1015``` - The antimalware platform detected suspicious behaviour
+
 ```1116``` - The antimalware platform detected malware or other potentially unwanted software
+
 ```5001``` - Real time protection was disabled
+
 ```5013``` - Tamper protection blocked a change to Defender Antivirus
 
 Se den [komplette listen](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus) med EventIDer fra Microsoft for mer informasjon om eventene
